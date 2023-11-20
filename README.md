@@ -1,1 +1,1 @@
-# SEM_1_ML_Practical
+# SEM_1_ML
